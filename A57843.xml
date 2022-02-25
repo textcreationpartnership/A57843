@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A worthy speech spoken in the honourable House of Commons by Sir Benjamin Rudyard, this present July, 1642.</title>
+            <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57843</idno>
+            <idno type="STC">Wing R2206</idno>
+            <idno type="STC">ESTC R34012</idno>
+            <idno type="EEBO-CITATION">13660356</idno>
+            <idno type="OCLC">ocm 13660356</idno>
+            <idno type="VID">101107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101107)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1045:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A worthy speech spoken in the honourable House of Commons by Sir Benjamin Rudyard, this present July, 1642.</title>
+                  <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Thrale,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Iuly 17, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101107:1"/>
+            <pb facs="tcp:101107:1" rendition="simple:additions"/>
+            <p>A WORTHY SPEECH Spoken in the Honourable Houſe OF COMMONS, By Sir Benjamin Rudyard.</p>
+            <p>This preſent <hi>July,</hi> 1642.</p>
+            <figure>
+               <figDesc>embellished Tudor rose</figDesc>
+            </figure>
+            <p>
+               <hi>Iuly</hi> 17. Printed for <hi>R. Thrale.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:101107:2"/>
+            <pb n="1" facs="tcp:101107:2"/>
+            <head>A Speech ſpoken in the Houſe of Commons by Sir BENIAMIN RUDYARD. <hi>Iuly</hi> 9. 1642.</head>
+            <opener>
+               <salute>M<hi rend="sup">r</hi> SPEAKER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N the way we are, we have gone as farre as words can carry us: We have voted our own Rights, and the Kings Duty: No doubt there is a Relative Duty between a King and Subjects; Obe<g ref="char:EOLhyphen"/>dience from a Subject to a King, Protection from a King to His People. The preſent un<g ref="char:EOLhyphen"/>happie diſtance between His Majeſtie and the Parliament, makes the whole Kingdome
+<pb n="2" facs="tcp:101107:3"/>ſtand amazed, in a fearfull expectation of diſ<g ref="char:EOLhyphen"/>mall Calamities to fall upon it: It deeply and conſcionably concerns this Houſe to compoſe and ſettle theſe threatening ruining diſtracti<g ref="char:EOLhyphen"/>ons. M. <hi>Speaker,</hi> I am touch'd, I am pier'd with an apprehenſion of the Honour of the Houſe, and ſucceſſe of this Parliament. The beſt way to give a ſtop to theſe deſperate, im<g ref="char:EOLhyphen"/>minent miſchiefs is, To make a fair way for the Kings return hither; It will likewiſe give beſt ſatisfaction to the people, and will be our beſt Juſtification. M. <hi>Speaker,</hi> That we may the better conſider the condition we are now in, let us ſet our ſelves three Yeers back: If any man then, could have credibly told us, That within three Yeers the Queen ſhall be gone out of <hi>England</hi> into the Low-Coun<g ref="char:EOLhyphen"/>tries, for any cauſe whatſoever. The King ſhal remove from his Parliament, from <hi>London</hi> to <hi>York,</hi> declaring himſelf not to be ſafe here, That there ſhall be a totall Rebellion in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Such diſcords and diſtempers both in Church and State here, as now we finde; cer<g ref="char:EOLhyphen"/>tainly we ſhould have trembled at the thought of it: Wherefore it is fit we ſhould be ſenſible now we are in it.</p>
+            <p>
+               <pb n="3" facs="tcp:101107:3"/>
+On the other ſide, If any man then, could have crediblie told us, That within three Yeers ye ſhall have a Parliament, it would have been good News; That Ship-monie ſhall be taken away by an Act of Parliament, the Reaſons and Grounds of it ſo rooted out, as that neither it, nor any thing like it, can ever grow up again; That Monopolies, The high-Commiſsion Court, The Starre-Cham<g ref="char:EOLhyphen"/>ber, The Biſhops Votes ſhall be taken away, The Councell Table regulated and reſtrain<g ref="char:EOLhyphen"/>ed, The Forreſts bounded and limitted; That ye ſhall have a Trienniall Parliament; and more then that, A Perpetuall Parliament, which none ſhall have power to diſſolve without your ſelves, we ſhould have thought this a dream of happineſſe; yet now we are in the reall poſſeſſion of it, we do not enjoy it, although His Majeſtie hath promiſed and publiſhed he will make all this good to us: We ſtand chiefly upon further ſecurity; where<g ref="char:EOLhyphen"/>as, the very having of theſe things, is a con<g ref="char:EOLhyphen"/>venient, fair ſecuritie, mutually ſecuring one another: there is more ſecuritie offered, even in this laſt anſwer of the Kings, By removing
+<pb n="4" facs="tcp:101107:4"/>the perſonall Votes of Popiſh Lords, By the Better Education of Papiſts children, By ſup<g ref="char:EOLhyphen"/>plying the defects of Laws againſt Recuſants, beſides what elſe may be enlarged and impro<g ref="char:EOLhyphen"/>ved by a ſelect Committee of both Houſes, named for that purpoſe. Wherefore, Sir, let us beware we do not contend for ſuch a ha<g ref="char:EOLhyphen"/>zardous unſafe ſecuritie, as may endanger the loſſe of what we have already; let us not think we have nothing, becauſe we have not all we deſire; and though we had, yet we cannot make a Mathematicall ſecuritie; All humane Caution is Suſceptible of corruption and failing; Gods providence will not be bound, ſucceſſe muſt be his: He that obſerves the wind and rain, ſhall neither ſow nor reap; if he do nothing till he can ſecure the wea<g ref="char:EOLhyphen"/>ther, he will have but an ill harveſt.</p>
+            <p>M. <hi>Speaker,</hi> It now behoves us to call up all the wiſedome we have about us, for we are at the very brink of Combuſtion and con<g ref="char:EOLhyphen"/>fuſion: If blood once begin to touch blood, we ſhall preſentlie fall into a certain miſerie, and muſt attend an uncertain ſucceſſe, God knows when, and God knows what. Every
+<pb n="5" facs="tcp:101107:4"/>man here is bound in conſcience to employ his uttermoſt endeavours to prevent the effuſi<g ref="char:EOLhyphen"/>on of blood; blood is a crying ſin, it pollutes a Land; let us ſave our Liberties and our Eſtates, as we may ſave our Souls too. Now I have clearly delivered mine own coſcience, I leave every man freely to his.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
